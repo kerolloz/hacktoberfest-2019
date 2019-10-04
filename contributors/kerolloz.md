@@ -11,8 +11,8 @@
 
 ### I am proud of
 
-- [CodeCourses](//kerolloz/codecourses)
+- [CodeCourses](//github.com/kerolloz/codecourses)
 
 ### Profile Link
 
-[kerolloz](//kerolloz)
+[kerolloz](//github.com/kerolloz)
