@@ -18,4 +18,4 @@
 - [ecti-tga-web](//https://github.com/nikznk/ecti-tga-web) 
 
 ### Profile Link
-[Socal434](https://github.com/socal434/)
+[Nikznk](https://github.com/nikznk/)
