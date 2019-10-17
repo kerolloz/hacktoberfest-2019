@@ -11,12 +11,11 @@
 - Mobile App Development
 
 ## Things I Like
-- Gaming 
+- Gaming
 
 
 ### I am proud of
-
 - [ecti-tga-web](//https://github.com/nikznk/ecti-tga-web) 
-### Profile Link
 
-[Nikhil](https://github.com/nikznk/)
+### Profile Link
+[Nikznk](https://github.com/nikznk/)
